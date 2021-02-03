@@ -1,0 +1,2 @@
+# wireguard
+Install Wireguard easily.
