@@ -1,8 +1,8 @@
-# wireguard
+# Faster Wireguard install script
 Install Wireguard easily.
 
-# This file is a modified Version of angristran/wireguard-install
-# Due tomsome improvements the vpn speed is much higher.
+This file is a modified Version of angristran/wireguard-install
+Due tomsome improvements the vpn speed is much higher.
 
 WireGuard is a point-to-point VPN that can be used in different ways. Here, we mean a VPN as in: the client will forward all its traffic trough an encrypted tunnel to the server. The server will apply NAT to the client's traffic so it will appear as if the client is browsing the web with the server's IP.
 
