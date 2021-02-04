@@ -10,3 +10,8 @@ The script supports both IPv4 and IPv6. Please check the issues for ongoing deve
 
 WireGuard does not fit your environment? Check out openvpn-install.
 
+#Reconnect clients easily
+Use conf-to-qr.sh to create Peer configuration QR-Codes. These are shown in the terminal, as well as saved as a whatever.conf.png file.
+
+Usage: bash conf-to-qr -wireguard.conf
+
